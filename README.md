@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.macupdate.com/submission/500255/d/phpekhshn-logo.png" width="150" alt="CheckBook Pro for Mac — checkbook register and personal finance app for macOS"/>
+  <img src="https://www.splasmata.com/wp-content/uploads/2025/01/icon-checkbook-256.png" width="150" alt="CheckBook Pro for Mac — checkbook register and personal finance app for macOS"/>
 </p>
 
 <h1 align="center">CheckBook Pro for Mac</h1>
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/submission/500255/d/phpvrea6r-screenshot.png"
+  <img src="https://www.splasm.com/images/checkbookpro3/screenshot-entry.png"
        alt="CheckBook Pro for Mac — register with transactions and running balance"
        width="800"/>
 </p>
